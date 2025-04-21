@@ -1,1 +1,30 @@
-jhghjgjgj
+### Clients and Employess Analyze
+
+** Objective: ** 
+
+* Identify the top customers by purchase volume
+
+* Evaluate the performance of employees managing sales
+
+Tables to use:
+* Customers
+* Order
+* OrderDetials
+* Employees
+
+
+** Questions for Analysis: **
+
+* Which are the clients that have more orders?
+
+
+
+
+
+
+
+
+*Which Customers who have spent the most money?
+
+
+
