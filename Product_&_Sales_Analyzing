@@ -1,1 +1,27 @@
-gjgjhgjhgj
+#PRODUCT AND SALES ANALYSIS
+
+##Objective:
+Identify the best-selling products, the highest revenue-generating items, and the most profitable categories.
+
+
+Tables to be used:
+PRODUCTS
+ORDER DETAILS
+ORDERS
+CATEGORIES
+
+
+###The most saled product by amount.
+
+###Querie in SQL
+
+
+
+
+
+###Output from query
+
+
+
+
+
