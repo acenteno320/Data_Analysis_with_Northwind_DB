@@ -1,9 +1,34 @@
 
-# OBJECTIVES:
 
-## Analysis Objectives
+# "From Data to Decisions: Exploring Northwind with SQL and Power BI"
 
-### Analyze Northwind's sales and customer database to gain key insights into:
+
+
+
+Stage 1: Understanding the Context
+– Review of the Northwind data model and analysis objectives.
+
+Stage 2: Data Preparation and Cleaning
+– Identification of relevant tables and relationships.
+– Review of data consistency.
+
+Stage 3: Exploratory Analysis Using SQL Queries
+– Analysis of sales by employee, top-selling products, etc.
+
+Stage 4: Visualization in Power BI
+– Creation of dashboards with bar charts, line graphs, and KPIs.
+
+Stage 5: Conclusions and Recommendations
+– Key insights and how they can support business decision-making.
+
+
+
+
+## Stage 1 : Analyzing Objectives
+For this stage, we define the objectives clear and precise of the information that we want to obtain at the end in our reports of visualizations. <br>
+
+
+### Analyze Northwind's sales and customer database to gain key insights into:<br>
 
 1.Best-selling products<br/>
 2.Sales distributioni by region<br/>
