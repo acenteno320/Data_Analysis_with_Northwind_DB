@@ -13,10 +13,11 @@
 
 
 
-## SQL query structure
+## SQL query structure<br/>
 
-a.) Total Sales by Region. 
-Objective : View total sales by country and the most productive region.
+a.) Total Sales by Region. <br/>
+Objective : View total sales by country and the most productive region.<br/>
+The following is the query designed to address this objective:<br/>
 
 
 ![Query_objective1](https://github.com/user-attachments/assets/4b523e15-b358-439b-a754-4b01556cdf8b)
@@ -24,18 +25,18 @@ Objective : View total sales by country and the most productive region.
 
 
 
-b) Top 5 Best Selling Products.
-Objective: To identify the 5 best-selling products in terms of quantity.
-
+b) Top 5 Best Selling Products.<br/>
+Objective: To identify the 5 best-selling products in terms of quantity.<br/>
+The following query was designed to answer this objective.<br/>
 
 
 
 ![Query_objective2](https://github.com/user-attachments/assets/d47c571c-4b87-4c5b-9e81-65de69677caa)
 
 
-c) Sales per Employee.
-Objective: Analyze which employee generates the most sales.
-
+c) Sales per Employee.<br/>
+Objective: Analyze which employee generates the most sales.<br/>
+Here is the query created to meet this objective.<br/>
 
 
 
@@ -45,10 +46,9 @@ Objective: Analyze which employee generates the most sales.
 
 
 
-d) Average Sales by Product Category.
-Objective: To determine the average sales volume for each product category.
-
-
+d) Average Sales by Product Category.<br/>
+Objective: To determine the average sales volume for each product category.<br/>
+The following query was designed to answer this objective.<br/>
 
 
 
@@ -58,9 +58,10 @@ Objective: To determine the average sales volume for each product category.
 
 
 
-e) Most Frequent Customers.
-Objective: Identify the 10 customers who make the most purchases.
 
+e) Most Frequent Customers.<br/>
+Objective: Identify the 10 customers who make the most purchases.<br/>
+The following is the query designed to address this objective:<br/>
 
 
 
