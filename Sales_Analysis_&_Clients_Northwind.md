@@ -3,7 +3,7 @@
 
 ## Analysis Objectives
 
-### Analyze the Sales and Clients from the Northwind's Database to get the keys insights about:
+### Analyze Northwind's sales and customer database to gain key insights into:
 
 1.Best-selling products<br/>
 2.Sales distributioni by region<br/>
