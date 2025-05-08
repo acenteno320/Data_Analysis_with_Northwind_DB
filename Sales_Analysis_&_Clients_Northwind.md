@@ -15,7 +15,7 @@
 
 ## SQL query structure
 
-a.)a) Total Sales by Region. 
+a.) Total Sales by Region. 
 Objective : View total sales by country and the most productive region.
 
 
@@ -35,6 +35,27 @@ c) Sales per Employee.
 Objective: Analyze which employee generates the most sales.
 
 
+
+
+
+
+
+
+
+d) Average Sales by Product Category.
+Objective: To determine the average sales volume for each product category.
+
+
+
+
+
+
+
+
+
+
+e) Most Frequent Customers.
+Objective: Identify the 10 customers who make the most purchases.
 
 
 
