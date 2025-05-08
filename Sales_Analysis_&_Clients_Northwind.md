@@ -13,6 +13,10 @@
 
 
 
+## SQL query structure
+
+a.) Objective : Identify the total sales for country and the region more productive. 
+
 
 
 
