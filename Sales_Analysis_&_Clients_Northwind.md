@@ -15,7 +15,38 @@
 
 ## SQL query structure
 
-a.) Objective : Identify the total sales for country and the region more productive. 
+a.)a) Total Sales by Region. 
+Objective : View total sales by country and the most productive region.
+
+
+
+
+
+
+b) Top 5 Best Selling Products.
+Objective: To identify the 5 best-selling products in terms of quantity.
+
+
+
+
+
+
+c) Sales per Employee.
+Objective: Analyze which employee generates the most sales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
