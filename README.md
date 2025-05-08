@@ -35,6 +35,6 @@ Image 1. Northwind database diagram
 
 * Python (pandas, matplotlib, seaborn – optional if included)
 
-* Tableau / Power BI / Excel (for dashboards and visual storytelling)
+* Power BI (for dashboards and visual storytelling)
 
 * Git & GitHub (for version control and collaboration)
