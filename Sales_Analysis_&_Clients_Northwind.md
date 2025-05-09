@@ -1,44 +1,43 @@
 
 
-# "From Data to Decisions: Exploring Northwind with SQL and Power BI"
+# "From Data to Decisions: Exploring Northwind with SQL and Power BI"<br/>
 
+The following stages will be developed to carry out the data analysis process using the Northwind database:<br/>
 
+Stage 1: Understanding the Context<br/>
+– Review of the Northwind data model and analysis objectives.<br/>
 
+Stage 2: Data Preparation and Cleaning<br/>
+– Identification of relevant tables and relationships.<br/>
+– Review of data consistency.<br/>
 
-Stage 1: Understanding the Context
-– Review of the Northwind data model and analysis objectives.
+Stage 3: Exploratory Analysis Using SQL Queries<br/>
+– Analysis of sales by employee, top-selling products, and tables needed for queries.<br/>
 
-Stage 2: Data Preparation and Cleaning
-– Identification of relevant tables and relationships.
-– Review of data consistency.
+Stage 4: Visualization in Power BI<br/>
+– Creation of dashboards with bar charts, line graphs, and KPIs.<br/>
 
-Stage 3: Exploratory Analysis Using SQL Queries
-– Analysis of sales by employee, top-selling products, etc.
+Stage 5: Conclusions and Recommendations<br/>
+– Key insights and how they can support business decision-making.<br/>
 
-Stage 4: Visualization in Power BI
-– Creation of dashboards with bar charts, line graphs, and KPIs.
+## Executing the Process
 
-Stage 5: Conclusions and Recommendations
-– Key insights and how they can support business decision-making.
-
-
-
-
-## Stage 1 : Analyzing Objectives
+### Stage 1 : Analyzing Objectives<br/>
 For this stage, we define the objectives clear and precise of the information that we want to obtain at the end in our reports of visualizations. <br>
 
-
-### Analyze Northwind's sales and customer database to gain key insights into:<br>
-
+Analyze Northwind's sales and customer database to gain key insights into:<br>
 1.Best-selling products<br/>
 2.Sales distributioni by region<br/>
 3.Highest-performing employees<br/>
 4.Most frequent customers<br/>
 5.Average sales by product category<br/>
 
+### Stage 2: Data Preparation and Cleaning<br/>
+At this stage, the Northwind database is already clean, with well-defined relationships and consistent data. No additional data cleaning was required.<br/>
 
 
-## SQL query structure<br/>
+### Stage 3: Exploratory Analysis Using SQL Queries<br/>
+The following are the different queries executed to retrieve the information needed to address the defined objectives.<br> 
 
 a.) Total Sales by Region. <br/>
 Objective : View total sales by country and the most productive region.<br/>
