@@ -12,7 +12,30 @@ This is the visualization generated:<br>
 
 
 
-B.) 
+B.) Top 5 Best Selling Products.
+
+
+
+
+
+
+
+
+C.)
+
+
+
+
+
+
+D.)
+
+
+
+
+
+
+E.)
 
 
 
