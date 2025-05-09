@@ -25,11 +25,13 @@ Here is the generated visualization:<br>
 
 D.)Average Sales by Product Category<br>
 Below is the resulting visualization:<br>
-![image](https://github.com/user-attachments/assets/89f6ce47-0972-4026-aec7-e5d78ded715c)
+
+![image](https://github.com/user-attachments/assets/4c81327d-0e8f-4a2f-b936-cec47995b9fe)
 
 
 E.)Most Frequent Customers<br>
 Here is the generated visualization:<br>
+
 ![image](https://github.com/user-attachments/assets/667e7b15-2982-4547-a99f-c76153a667a1)
 
 
