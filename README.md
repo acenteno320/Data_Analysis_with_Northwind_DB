@@ -32,6 +32,6 @@ Image 1. Northwind database diagram
 
 * SQL (for data extraction and transformation)
 
-* Power BI (for dashboards and visual storytelling)
+* Microsoft Excel  (for dashboards and visual storytelling)
 
 * Git & GitHub (for version control and collaboration)
