@@ -12,12 +12,10 @@ This is the visualization generated:<br>
 
 
 
-B.)Top 5 Best Selling Products.
+B.)Top 5 Best Selling Products.<br>
+Below is the resulting visualization:<br>
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/4fccc5b5-a43b-40e8-8fbe-40ffb15b58fc)
 
 
 
