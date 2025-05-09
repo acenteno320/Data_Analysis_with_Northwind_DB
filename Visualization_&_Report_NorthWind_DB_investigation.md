@@ -42,7 +42,7 @@ The map visualization reveals the geographic distribution of sales revenue for N
 European countries show a diverse sales landscape, with moderate performance from France, the UK, and Sweden, while Poland and Norway reflect minimal sales activity. In the Americas, while Brazil and the USA lead, countries like Mexico and Argentina show opportunities for growth.
 
 
-#### Objetive 2 - 
+#### Objetive 2 - Top 5 Best Selling Products.
 This chart displays the top five best-selling products based on total units sold. Camembert Pierrot leads with 1,577 units, followed closely by Raclette Courdavault and Gorgonzola Telino, confirming a strong customer preference for gourmet cheeses.
 
 Gnocchi di nonna Alice and Pavlova also make the top five, indicating that traditional Italian and dessert items maintain high demand.
