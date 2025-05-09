@@ -26,14 +26,11 @@ Image 1. Northwind database diagram
 * Visualize trends and patterns for business insights
 
 
-
  
  
 ### Tools & Skills Used:
 
 * SQL (for data extraction and transformation)
-
-* Python (pandas, matplotlib, seaborn – optional if included)
 
 * Power BI (for dashboards and visual storytelling)
 
