@@ -14,7 +14,7 @@ Stage 2: Data Preparation and Cleaning<br/>
 Stage 3: Exploratory Analysis Using SQL Queries<br/>
 – Analysis of sales by employee, top-selling products, and tables needed for queries.<br/>
 
-Stage 4: Visualization in Power BI<br/>
+Stage 4: Visualization in Microsoft Excel <br/>
 – Creation of dashboards with bar charts, line graphs, and KPIs.<br/>
 
 Stage 5: Conclusions and Recommendations<br/>
