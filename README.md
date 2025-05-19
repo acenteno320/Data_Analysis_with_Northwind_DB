@@ -1,6 +1,6 @@
-# Data_Analysis_with_Northwind_DB
+# Exploratory Data Analysis of the Northwind DB
 
-Project: Exploring Data Analysis with Northwind DB
+## Project: Exploratory Data Analysis with Northwind DB
 
 ### Project Summary
 
@@ -8,30 +8,24 @@ This project focuses on performing exploratory data analysis (EDA) using the Nor
 
 Through SQL queries and data visualization techniques, I explore how different business elements interact — from orders and customers to employees and suppliers. This project demonstrates my ability to work with relational databases, clean and analyze data, and communicate findings clearly.
 
-###
+### Northwind Database Diagram
 
 ![DB_Northwind](https://github.com/user-attachments/assets/17fbfc40-bb88-45e3-93ff-3e0964e3a568)
-Image 1. Northwind database diagram
 
+### Key Objectives
 
- 
- ### Key Objectives:
- 
-* Analyze sales performance across time, categories, and regions
+- Analyze sales performance across time, categories, and regions
 
-* Identify top-selling products and high-value customers
+- Identify top-selling products and high-value customers
 
-* Evaluate employee activity and order fulfillment performance
+- Evaluate employee activity and order fulfillment performance
 
-* Visualize trends and patterns for business insights
+- Visualize trends and patterns for business insights
 
+### Tools & Skills Used
 
- 
- 
-### Tools & Skills Used:
+- SQL (for data extraction and transformation)
 
-* SQL (for data extraction and transformation)
+- Microsoft Excel (for dashboards and visual storytelling)
 
-* Microsoft Excel  (for dashboards and visual storytelling)
-
-* Git & GitHub (for version control and collaboration)
+- Git & GitHub (for version control and collaboration)
