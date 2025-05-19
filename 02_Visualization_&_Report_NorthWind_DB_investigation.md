@@ -1,50 +1,44 @@
-# Data Visualization and Reporting<br>
+# Data Visualization and Reporting
 
-### Stage 4: Visualization in Microsoft Excel <br>
-– Creation of graphs will be presented,  such as: bar charts, line graphs, and KPIs.<br>
+### Stage 4: Visualization in Microsoft Excel
+- Creation of graphs such as bar charts, line graphs, and KPIs.
 
-The following are the representation of the data for each objetive to be analized eith the NorthWind Database.<br> 
+The following are the representation of the data for each objetive to be analized eith the NorthWind Database.
 
-A.)Sales by Region or Country<br>
-This is the visualization generated:<br>
+#### A) Sales by Region or Country
+Visualization generated:
 
 ![image](https://github.com/user-attachments/assets/5274a06f-063d-4b0b-916f-5dacd367b29a)
 
-
-B.)Top 5 Best Selling Products.<br>
-Below is the resulting visualization:<br>
+#### B) Top 5 Best-Selling Products
+Resulting visualization:
 
 ![image](https://github.com/user-attachments/assets/4fccc5b5-a43b-40e8-8fbe-40ffb15b58fc)
 
-
-C.)Sales per Employee.<br>
-Here is the generated visualization:<br>
+#### C) Sales per Employee
+Generated visualization:
 
 ![image](https://github.com/user-attachments/assets/dcd891fe-ab0d-4225-8b4c-c3dbca148f03)
 
-
-D.)Average Sales by Product Category<br>
-Below is the resulting visualization:<br>
+#### D) Average Sales by Product Category
+Resulting visualization:
 
 ![image](https://github.com/user-attachments/assets/4c81327d-0e8f-4a2f-b936-cec47995b9fe)
 
-
-E.)Most Frequent Customers<br>
-Here is the generated visualization:<br>
+#### E) Most Frequent Customers
+Generated visualization:
 
 ![image](https://github.com/user-attachments/assets/667e7b15-2982-4547-a99f-c76153a667a1)
 
+### Stage 5: Conclusions and Recommendations
+- Key insights and how they can support business decision-making.
 
-### Stage 5: Conclusions and Recommendations<br>
-– Key insights and how they can support business decision-making.<br>
-
-#### Objetive 1 - Sales by Region or Country
+#### Objective 1 – Sales by Region or Country
 The map visualization reveals the geographic distribution of sales revenue for Northwind across 21 countries. The United States ($263K) and Germany ($244K) stand out as the top-performing markets, together accounting for a significant portion of total sales. Other strong contributors include Austria ($139K) and Brazil ($114K).
 
 European countries show a diverse sales landscape, with moderate performance from France, the UK, and Sweden, while Poland and Norway reflect minimal sales activity. In the Americas, while Brazil and the USA lead, countries like Mexico and Argentina show opportunities for growth.
 
-
-#### Objetive 2 - Top 5 Best Selling Products.
+#### Objective 2 – Top 5 Best-Selling Products
 This chart displays the top five best-selling products based on total units sold. Camembert Pierrot leads with 1,577 units, followed closely by Raclette Courdavault and Gorgonzola Telino, confirming a strong customer preference for gourmet cheeses.
 
 Gnocchi di nonna Alice and Pavlova also make the top five, indicating that traditional Italian and dessert items maintain high demand.
@@ -75,5 +69,6 @@ At the top of the list, Save-a-lot Markets emerges as the most frequent buyer wi
 Further down the list, clients like Folk och fä HB, Hungry Owl All-Night Grocers, and Berglunds snabbköp also show strong engagement, each placing between 18 and 19 orders—indicating steady, reliable partnerships.
 Even those at the bottom of the top 10, such as Bon app' and Frankenversand, maintain double-digit order activity, reinforcing the strength of the company’s repeat customer base.
 This pattern suggests that fostering long-term relationships with these loyal clients could lead to sustained revenue, while also revealing potential ambassadors for expanding into similar market segments.
+
 ![image](https://github.com/user-attachments/assets/cdb7c666-777a-45ed-8bfb-67204144ecc8)
 
