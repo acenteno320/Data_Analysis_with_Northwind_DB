@@ -48,4 +48,7 @@ The following Entity-Relationship Diagram (ERD) illustrates the main tables and 
 Ana Centeno – Data Analyst passionate about Business Intelligence and Data Visualization.
 
 
+---
+
+**📬 Contact :** [LinkedIn](https://www.linkedin.com/in/ana-centeno-baltazar/) | [Email](CentenoAj@outlook.com)
 
