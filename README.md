@@ -1,4 +1,3 @@
-# Exploratory Data Analysis of the Northwind DB
 
 ## Project: Exploratory Data Analysis with Northwind DB
 
@@ -14,8 +13,6 @@ This project involves exploratory data analysis and visualization using the Nort
 
 ## 🗂️ Database Structure  
 The following Entity-Relationship Diagram (ERD) illustrates the main tables and their relationships in the Northwind database.
-
-![Entity-Relationship Diagram](./images/entity_relationship_diagram.png)
 
 ### Northwind Database Diagram
 
@@ -50,7 +47,5 @@ The following Entity-Relationship Diagram (ERD) illustrates the main tables and 
 ## 👩‍💻 Author  
 Ana Centeno – Data Analyst passionate about Business Intelligence and Data Visualization.
 
-### Northwind Database Diagram
 
-![DB_Northwind](https://github.com/user-attachments/assets/17fbfc40-bb88-45e3-93ff-3e0964e3a568)
 
