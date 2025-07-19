@@ -2,30 +2,55 @@
 
 ## Project: Exploratory Data Analysis with Northwind DB
 
-### Project Summary
+# 📊 Northwind Database Analysis
 
-This project focuses on performing exploratory data analysis (EDA) using the Northwind database, a classic dataset that simulates a global food import/export company's operations. The goal of this analysis is to uncover key business insights by examining sales performance, customer behavior, product trends, and employee efficiency.
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Technologies](https://img.shields.io/badge/Technologies-SQL%20%7C%20Excel-blue)
+![Language](https://img.shields.io/badge/Language-English-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Through SQL queries and data visualization techniques, I explore how different business elements interact — from orders and customers to employees and suppliers. This project demonstrates my ability to work with relational databases, clean and analyze data, and communicate findings clearly.
+## 📂 Description  
+This project involves exploratory data analysis and visualization using the Northwind database, which contains sales, customers, products, and employees data from a fictional company.
+
+## 🗂️ Database Structure  
+The following Entity-Relationship Diagram (ERD) illustrates the main tables and their relationships in the Northwind database.
+
+![Entity-Relationship Diagram](./images/entity_relationship_diagram.png)
 
 ### Northwind Database Diagram
 
 ![DB_Northwind](https://github.com/user-attachments/assets/17fbfc40-bb88-45e3-93ff-3e0964e3a568)
 
-### Key Objectives
+## 🎯 Objectives  
+- Perform SQL queries to extract key insights on sales, customers, and products.  
+- Analyze purchasing patterns and product performance.  
+- Visualize key insights using Excel pivot tables and charts.  
+- Produce clear and actionable reports to support decision-making.
 
-- Analyze sales performance across time, categories, and regions
+## 🛠️ Tools Used  
+- SQL (querying and data manipulation)  
+- Microsoft Excel (pivot tables and charts)
 
-- Identify top-selling products and high-value customers
+## 📈 Key Results  
+- Identified best-selling and most profitable products.  
+- Analyzed sales trends by region and time period.  
+- Created dynamic visualizations for easier data interpretation.  
+- Provided recommendations for inventory and sales campaign optimization.
 
-- Evaluate employee activity and order fulfillment performance
+## 🚀 Learnings  
+- Data cleaning and handling relational databases.  
+- Writing efficient SQL queries.  
+- Creating effective reports and dashboards in Excel.
 
-- Visualize trends and patterns for business insights
+## 📁 Repository Structure  
+- `/sql_queries/`: SQL scripts used for analysis.  
+- `/excel_reports/`: Excel files with pivot tables and charts.  
+- `/data/`: Northwind database and related data files.
 
-### Tools & Skills Used
+## 👩‍💻 Author  
+Ana Centeno – Data Analyst passionate about Business Intelligence and Data Visualization.
 
-- SQL (for data extraction and transformation)
+### Northwind Database Diagram
 
-- Microsoft Excel (for dashboards and visual storytelling)
+![DB_Northwind](https://github.com/user-attachments/assets/17fbfc40-bb88-45e3-93ff-3e0964e3a568)
 
-- Git & GitHub (for version control and collaboration)
